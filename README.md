@@ -74,6 +74,6 @@ The other way you can use this is adding `.then` after calling the function, you
 # Usage
 
 It's logical to make something like this open-sourced as most experienced people can code this without any reference and because of it's simplicity.
-This part might be unneccessary but feel free to copy the code from the git repository.
+This part might be unneccessary but feel free to copy the code from the git repository. The only reason I would use this way is if I am not in an async function.
 
 Thanks for downloading!
