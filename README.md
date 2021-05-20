@@ -1,4 +1,4 @@
-# What is this?
+<h1 align="center">What is This?</h1>
 
 This package uses promises and awaits to pause execution, similar to Python's `time.sleep()` and Lua's `wait()`.
 
