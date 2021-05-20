@@ -1,12 +1,12 @@
-# What is this?
+<h1 align="center">What is This?</h1>
 
 This package uses promises and awaits to pause execution, similar to Python's `time.sleep()` and Lua's `wait()`.
 
-# Installation
+<h1 align="center">Installation</h1> 
 
 You can download this package by using the command; `npm i @mrhotmadm/sleep`
 
-# Using the package
+<h1 align="center">Using the package</h1>
 
 The most simplest way to use this package is to...
 
