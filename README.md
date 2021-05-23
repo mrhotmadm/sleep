@@ -1,6 +1,6 @@
 <h1 align="center">What is This?</h1>
 
-This package uses promises and awaits to pause execution, similar to Python's `time.sleep()` and Lua's `wait()`.
+This package uses promises to pause execution, similar to Python's `time.sleep()` and Lua's `wait()`.
 
 # Installation
 
