@@ -56,7 +56,7 @@ async function main() {
 # Ways to use asynchronously
 
 The most simplest and ideal way to use this package is to just add `await` before calling the package. This will automatically make it wait for the function to return the promise.
-You can also add a `.catch` to handle errors properly, `.then` is unneccessary if you are in a big project.
+You can also add a `.catch` to handle errors.
 
 ```js
 const sleep = require('@mrhotmadm/sleep');
@@ -69,7 +69,7 @@ async function main() {
 }
 ```
 
-The other way you can use this is adding `.then` after calling the function, you won't really need the `await` at the beginning, but I think it takes up too much space and time.
+The other way you can use this is adding `.then` after calling the function.
 
 # Usage
 
